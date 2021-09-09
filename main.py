@@ -14,7 +14,11 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm')
     print_hi('PyCharm')
+<<<<<<< HEAD
     print_hi('Camelot')
 
+=======
+    print_hi('KEK')
+>>>>>>> f338d435f29ae5aff76786439c481a19563b3835
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
